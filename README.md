@@ -1,2 +1,2 @@
 # new-repo
-this is the first repo of
+demo for Git & Github
