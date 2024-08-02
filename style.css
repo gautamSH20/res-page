@@ -70,10 +70,26 @@ td {
 @media (max-width: 375px) {
   body {
     display: block;
-    width: 375;
+
     margin: 0;
     justify-content: left;
     padding: 0;
     height: 100%;
+  }
+  main {
+    height: 100%;
+    width: 100%;
+  }
+  .box {
+    margin: 0;
+  }
+  img {
+    border-radius: 0;
+    width: 350px;
+    margin: 0;
+  }
+  td {
+    padding-left: 40px;
+    padding-right: 40px;
   }
 }
